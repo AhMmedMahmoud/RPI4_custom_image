@@ -49,10 +49,6 @@ We will use Crosstool-NG.
 ```
 cd ~
 git clone https://github.com/crosstool-ng/crosstool-ng
-cd crosstool-ng/
-
-# Switch to the latest release
-git checkout crosstool-ng-1.24.0 -b 1.24.0
 ```
 ### Build and Install crosstool-NG
 ```
